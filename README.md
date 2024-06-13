@@ -15,7 +15,7 @@ The goal of this project is to build a real-time system that can detect emotions
 ## Setup Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/emotion-detection.git
+    git clone https://github.com/SaptarshiMondal123/emotion-detection.git
     cd emotion-detection
     ```
 
