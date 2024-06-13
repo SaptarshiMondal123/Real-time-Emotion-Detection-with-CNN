@@ -15,8 +15,8 @@ The goal of this project is to build a real-time system that can detect emotions
 ## Setup Instructions
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/SaptarshiMondal123/emotion-detection.git
-    cd emotion-detection
+    git clone https://github.com/SaptarshiMondal123/Real-time-Emotion-Detection-with-CNN.git
+    cd Real-time-Emotion-Detection-with-CNN
     ```
 
 2. **Install the required dependencies:**
