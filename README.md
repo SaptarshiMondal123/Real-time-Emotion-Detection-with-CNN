@@ -49,6 +49,7 @@ To run the emotion detection system using your webcam:
 Example:
 ```bash
 python evaluate_model.py
+```
 
 ## Acknowledgements
 
