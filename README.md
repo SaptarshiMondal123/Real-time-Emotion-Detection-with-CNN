@@ -53,7 +53,6 @@ python evaluate_model.py
 
 ## Acknowledgements
 
-```plaintext
 - FER-2013 Dataset: The model is trained on the Face Expression Recognition Dataset (FER-2013) created by M. Sambare.
 - Open Source Libraries:
   - TensorFlow, Keras, and OpenCV communities for their contributions to deep learning and computer vision.
